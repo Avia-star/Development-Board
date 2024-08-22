@@ -1,1 +1,2 @@
-# Development-Board
+# 简介
+这个一款用立创EDA绘制的开源T113开发板
